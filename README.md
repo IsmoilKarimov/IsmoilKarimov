@@ -1,6 +1,6 @@
 ### Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px">
 <br /> 
-<img src="https://i.pinimg.com/originals/aa/27/62/aa2762f2783a3026e13e4a888814fe21.gif" width="20px"> <b>I'm currently Junior fullstack developer</b> 
+### I'm currently Junior fullstack developer <img src="https://i.pinimg.com/originals/aa/27/62/aa2762f2783a3026e13e4a888814fe21.gif" width="20px"> 
 
 
 

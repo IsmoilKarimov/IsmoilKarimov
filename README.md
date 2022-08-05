@@ -1,4 +1,4 @@
-### Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="70px">
+### Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="30px">
 
 <!--
 **IsmoilKarimov/IsmoilKarimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

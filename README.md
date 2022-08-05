@@ -1,5 +1,5 @@
 ### Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px">
-
+### I'm Junior fullstack developer
 <!--
 **IsmoilKarimov/IsmoilKarimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,11 +7,11 @@
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30">, 
   <img src="https://i.pinimg.com/originals/71/6f/e3/716fe300cd30c29a43ea82ae60c649b9.png" width="30">, 
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="30">,
-  <img src="https://iconape.com/wp-content/png_logo_vector/less-2.png" width="35">,
+  <img src="https://iconape.com/wp-content/png_logo_vector/less-2.png" width="30">,
   <img src="https://miro.medium.com/max/1200/1*WA_9JsyqFkge2HwYKcdJQw.png" width="40">, 
   <img src="https://images.squarespace-cdn.com/content/v1/5f1af311dd6ca72fda592fe7/1610112022580-OKW67DO0YLQASS1BRZQ1/node.png" width="37">, 
   <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express-768x768.png" width="30">, 
-  <img src="https://www.walkweltech.com/assets/images/technology/mongodb.png" width="35"> 
+  <img src="https://www.walkweltech.com/assets/images/technology/mongodb.png" width="30"> 
   </strong>
 
 

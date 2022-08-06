@@ -1,6 +1,9 @@
 ### Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px">
 <br /> 
+
 <strong>I'm currently Junior fullstack developer.</strong>
+
+<strong>  Ask me about JavaScript, HTML, CSS/Sass/Less, Bootstrap, ReactJs, NodeJs, ExpressJs, MongoDb. </strong>
 
 
 

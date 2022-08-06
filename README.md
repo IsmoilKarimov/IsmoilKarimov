@@ -3,7 +3,7 @@
 
 <strong>I'm currently Junior fullstack developer.</strong>
 
-<strong>  Ask me about :
+<strong>  <i>Ask me about</i> : <br/>
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30">, 
   <img src="https://i.pinimg.com/originals/71/6f/e3/716fe300cd30c29a43ea82ae60c649b9.png" width="30">,
   <img src="https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2.png" width="30">,

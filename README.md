@@ -3,7 +3,7 @@
 
 <strong>I'm currently Junior fullstack developer.</strong>
 
-<strong>  Ask me about JavaScript, HTML, CSS/Sass/Less, Bootstrap, ReactJs, NodeJs, ExpressJs, MongoDb. </strong>
+<strong>  Ask me about <img src="https://avatars.mds.yandex.net/i?id=db0607fc2e5f4c53dce85879e2e5b56b-4901917-images-thumbs&n=13" width="20"> JavaScript, HTML, CSS/Sass/Less, Bootstrap, ReactJs, NodeJs, ExpressJs, MongoDb. </strong>
 
 
 

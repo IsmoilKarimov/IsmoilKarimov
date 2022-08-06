@@ -8,7 +8,7 @@
   <img src="https://bootstrap-4.ru/docs/3.4/assets/img/sass-less.png" width="30">, 
   <img src="https://www.drupal.org/files/project-images/bootstrap-stack.png" width="30">, 
   <img src="https://avatars.mds.yandex.net/i?id=9cddc22ac45271fe3f33d9e0e91da86b-4569097-images-thumbs&n=13" width="30">, 
-  <img src="https://www.pngkit.com/png/detail/470-4704009_nodejs-rust-logo-node-js.png" width="30">, 
+  <img src="https://e7.pngegg.com/pngimages/74/216/png-clipart-node-js-javascript-server-side-scripting-font-node-js-angle-text.png" width="30">, 
   <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express-768x768.png" width="30">, 
   <img src="https://www.walkweltech.com/assets/images/technology/mongodb.png" width="30"> 
   </strong>

@@ -10,7 +10,7 @@
   <img src="https://avatars.mds.yandex.net/i?id=9cddc22ac45271fe3f33d9e0e91da86b-4569097-images-thumbs&n=13" width="30">, 
   <img src="https://www.pngkit.com/png/detail/470-4704009_nodejs-rust-logo-node-js.png" width="30">, 
   <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express-768x768.png" width="30">, 
-  <img src="https://avatars.mds.yandex.net/i?id=d412bad309eb32e28ae33cd75269f8fc-3989655-images-thumbs&n=13" width="30"> 
+  <img src="https://storage.buzzsprout.com/variants/t2y5qjrju78xxdqz37m89amcsq67/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" width="30"> 
   </strong>
 
 

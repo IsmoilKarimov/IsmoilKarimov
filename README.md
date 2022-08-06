@@ -3,8 +3,7 @@
 
 <strong>I'm currently Junior fullstack developer.</strong>
 
-<strong>  Ask me about  
-  <img src="https://avatars.mds.yandex.net/i?id=db0607fc2e5f4c53dce85879e2e5b56b-4901917-images-thumbs&n=13" width="30">, 
+<strong>  Ask me about  <img src="https://avatars.mds.yandex.net/i?id=db0607fc2e5f4c53dce85879e2e5b56b-4901917-images-thumbs&n=13" width="30">, 
   <img src="https://avatars.mds.yandex.net/i?id=754207a18e63f5075e89792d6b381aa1-7065990-images-thumbs&n=13" width="30">, 
   <img src="https://bootstrap-4.ru/docs/3.4/assets/img/sass-less.png" width="30">, 
   <img src="https://www.drupal.org/files/project-images/bootstrap-stack.png" width="30">, 

@@ -15,7 +15,13 @@
   <img src="https://www.walkweltech.com/assets/images/technology/mongodb.png" width="50"> 
   </strong>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmoilKarimov)](https://github.com/IsmoilKarimov/github-readme-stats)
+## My GitHub Stats 📊
+<a href="https://github.com/IsmoilKarimov/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IsmoilKarimov&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/IsmoilKarimov/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmoilKarimov" />
+</a>
 
 
 

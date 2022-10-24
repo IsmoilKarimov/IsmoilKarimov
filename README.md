@@ -15,7 +15,7 @@
   <img src="https://www.walkweltech.com/assets/images/technology/mongodb.png" width="50"> 
   </strong>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmoilKarimov)](https://github.com/IsmoilKarimov/github-readme-stats)
+  
 
 
 
@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmoilKarimov)](https://github.com/IsmoilKarimov/github-readme-stats)

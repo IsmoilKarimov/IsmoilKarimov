@@ -14,6 +14,8 @@
   <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express-768x768.png" width="50">, 
   <img src="https://www.walkweltech.com/assets/images/technology/mongodb.png" width="50"> 
   </strong>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

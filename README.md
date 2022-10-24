@@ -15,7 +15,7 @@
   <img src="https://www.walkweltech.com/assets/images/technology/mongodb.png" width="50"> 
   </strong>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmoilKarimov)](https://github.com/IsmoilKaarimov/github-readme-stats)
 
 
 

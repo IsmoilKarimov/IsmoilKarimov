@@ -1,8 +1,8 @@
  <img align="right" alt="Coding" width="100%" height="250" src="https://cdn.pixabay.com/photo/2016/11/05/08/22/matrix-1799659_960_720.jpg">
 
-<br /> <hr/>
 
-### <h1>Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px"></h1> 
+
+ <h1>Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px"></h1> 
 
 
 <strong>I'm currently Junior fullstack developer.</strong>

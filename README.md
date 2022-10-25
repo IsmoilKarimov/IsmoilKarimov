@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="100%" src="https://hrchannels.com/uptalent/attachments/images/20210802/142631058_tro-thanh-full-stack-developer-4.jpg">
+ <img align="right" alt="Coding" width="100%" height="300" src="https://cdn.pixabay.com/photo/2016/11/18/18/37/programming-1836330_960_720.png">
 
 ### Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px">
 <br /> 

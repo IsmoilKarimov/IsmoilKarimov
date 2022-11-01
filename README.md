@@ -1,11 +1,9 @@
 
 
-<img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px">
-
 <h1 align="center">Hi 👋, I'm Ismoil Karimov</h1>
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 
-<img src="https://yandex.ru/images/search?from=tabbar&text=animated%20coding%20gif&p=3&pos=127&rpt=simage&img_url=http%3A%2F%2Fcamo.githubusercontent.com%2Fe20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966&lr=10335">
+<img align="right" alt="Coding" width="400" src="https://yandex.ru/images/search?from=tabbar&text=animated%20coding%20gif&p=3&pos=127&rpt=simage&img_url=http%3A%2F%2Fcamo.githubusercontent.com%2Fe20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966&lr=10335">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismoilkarimov&label=Profile%20views&color=0e75b6&style=flat" alt="ismoilkarimov" /> </p>
 
@@ -34,9 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismoilkarimov&show_icons=true&locale=en" alt="ismoilkarimov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismoilkarimov&" alt="ismoilkarimov" /></p>
-
-
-
 
 
 

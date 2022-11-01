@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Nest js**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at my github profile.
 
 - 💬 Ask me about **Javascript, react js, node js, mongoDb, express js**
 

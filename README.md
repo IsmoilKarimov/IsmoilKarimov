@@ -50,9 +50,7 @@
 </a>
 <a href="https://github.com/IsmoilKarimov/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmoilKarimov" />
-</a> -->
-
-<img align="right" alt="Coding" width="100%" height="400" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1506&q=80">
+</a>
   
   
   

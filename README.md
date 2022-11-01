@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ismoil Karimov</h1>
+<h1 align="center">Hi  <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="30px">, I'm Ismoil Karimov</h1>
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
@@ -43,6 +43,16 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>,
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>,
   <img src="https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png" width="50">
+  
+  ## My GitHub Stats 📊
+<a href="https://github.com/IsmoilKarimov/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IsmoilKarimov&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/IsmoilKarimov/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmoilKarimov" />
+</a> -->
+
+<img align="right" alt="Coding" width="100%" height="400" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1506&q=80">
   
   
   

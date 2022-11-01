@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MERN+fullstack+developer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi  <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="30px">, I'm Ismoil Karimov</h1>
-<h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
+<h3 align="center">A passionate MERN fullstack developer from Uzbekistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 

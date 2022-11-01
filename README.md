@@ -37,19 +37,25 @@
   <img src="https://miro.medium.com/max/1200/1*WA_9JsyqFkge2HwYKcdJQw.png" width="60">, 
   <img src="https://images.squarespace-cdn.com/content/v1/5f1af311dd6ca72fda592fe7/1610112022580-OKW67DO0YLQASS1BRZQ1/node.png" width="47">, 
   <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express-768x768.png" width="50">, 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="50"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>, 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>,
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>,
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>,
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>,
-  <img src="https://ejudge.lksh.ru/assets/images/social/github.png" width="50">
+  <img src="https://avatars.mds.yandex.net/i?id=c3016359b9c5491d1525934e00371f07-6281821-images-thumbs&n=13" width="50">
   
   
   
   
   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  
+  
+  
+  
+  
+  
+  
+<!--   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -72,10 +78,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismoilkarimov&show_icons=true&locale=en" alt="ismoilkarimov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismoilkarimov&" alt="ismoilkarimov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismoilkarimov&" alt="ismoilkarimov" /></p> -->
 
-
-
+  
 
 
 <!--  <h1>Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px"></h1> 
@@ -107,6 +112,7 @@
 <!-- <img align="right" alt="Coding" width="100%" height="400" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1506&q=80"> -->
 
 
+  
 <!--
 **IsmoilKarimov/IsmoilKarimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

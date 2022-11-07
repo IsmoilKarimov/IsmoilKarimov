@@ -92,8 +92,7 @@
   
 
 
- <h1>Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px"></h1> 
-
+<!--  <h1>Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px"></h1> 
 
 <strong>I'm currently Junior fullstack developer.</strong>
 
@@ -119,7 +118,7 @@
 
 
 <img align="right" alt="Coding" width="100%" height="400" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1506&q=80">
-
+ -->
 
   
 <!--

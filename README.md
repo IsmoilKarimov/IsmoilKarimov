@@ -33,6 +33,7 @@
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="50">, 
   <img src="https://i.pinimg.com/originals/71/6f/e3/716fe300cd30c29a43ea82ae60c649b9.png" width="50">,
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/></a>, 
+  <img src="https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2.png" width="50">,
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="50">,
   <img src="https://iconape.com/wp-content/png_logo_vector/less-2.png" width="50">,
   <img src="https://miro.medium.com/max/1200/1*WA_9JsyqFkge2HwYKcdJQw.png" width="60">, 

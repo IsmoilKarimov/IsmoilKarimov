@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MERN+fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend(React)+developer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi  <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="30px">, I'm Ismoil Karimov</h1>
 <h3 align="center">A passionate MERN fullstack developer from Uzbekistan</h3>

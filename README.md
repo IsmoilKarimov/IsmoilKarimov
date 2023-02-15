@@ -42,8 +42,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>,
   <img src="https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png" width="50">,
   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50"/> </a>,
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" alt="pug" width="50"/></a>,
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50"/> </a>
+  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" alt="nextjs" width="50"/></a>,
+  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" width="50"/> </a>
   
   ## My GitHub Stats 📊
 <a href="https://github.com/IsmoilKarimov/github-readme-stats">

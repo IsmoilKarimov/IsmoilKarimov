@@ -85,13 +85,13 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
+-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismoilkarimov&show_icons=true&locale=en&layout=compact" alt="ismoilkarimov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismoilkarimov&show_icons=true&locale=en" alt="ismoilkarimov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismoilkarimov&" alt="ismoilkarimov" /></p>
- -->
+
   
 
   
@@ -99,12 +99,7 @@
   
 <!-- <img align="right" alt="Coding" width="100%" height="400" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1506&q=80"> -->
 
-  
-
-**IsmoilKarimov/IsmoilKarimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -112,7 +107,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 

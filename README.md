@@ -45,8 +45,8 @@
   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" alt="nextjs" width="50"/></a>,
   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" width="50"/> </a>
   <img src="https://images.squarespace-cdn.com/content/v1/5f1af311dd6ca72fda592fe7/1610112022580-OKW67DO0YLQASS1BRZQ1/node.png" width="47">, 
-  <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express-768x768.png" width="50">, 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
+  <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="50">, 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
   
   ## My GitHub Stats 📊
 <a href="https://github.com/IsmoilKarimov/github-readme-stats">

@@ -42,7 +42,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>,
   <img src="https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png" width="50">,
   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50"/> </a>,
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="[https://cdn.worldvectorlogo.com/logos/pug.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Fnext-js_21574.html&psig=AOvVaw1zP2OA5xLNlj7wInj_Cqk&ust=1676539795243000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjW8cmbl_0CFQAAAAAdAAAAABAE)" alt="pug" width="50"/></a>,
+  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" alt="pug" width="50"/></a>,
   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50"/> </a>
   
   ## My GitHub Stats 📊

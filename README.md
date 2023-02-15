@@ -67,7 +67,7 @@
   
   
   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<!--   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -91,11 +91,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismoilkarimov&show_icons=true&locale=en" alt="ismoilkarimov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismoilkarimov&" alt="ismoilkarimov" /></p>
-
+ -->
   
 
 
-<!--  <h1>Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px"></h1> 
+ <h1>Hi there, I'm Ismoil Karimov <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="40px"></h1> 
 
 <strong>I'm currently Junior fullstack developer.</strong>
 
@@ -121,7 +121,7 @@
 
 
 <img align="right" alt="Coding" width="100%" height="400" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1506&q=80">
- -->
+
 
   
 <!--

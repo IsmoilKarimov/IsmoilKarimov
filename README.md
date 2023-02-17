@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ismoilkarimov21" target="blank"><img src="https://img.shields.io/twitter/follow/@ismoilkarimov21?logo=twitter&style=for-the-badge" alt="@ismoilkarimov21" /></a> </p>
 
-- 🌱 I’m currently learning **Next js and tailwindcss**
+- 🌱 I’m currently learning **Next js and tailwindcss and also I have been using them in some real projects**
 
 - 👨‍💻 All of my projects are available at my github profile.
 

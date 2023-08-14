@@ -19,7 +19,7 @@
 <a href="https://twitter.com/iskaedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ismoilkarimov21" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ismoil-karimov-69bb16262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismoil-karimov-69bb16262/" height="30" width="40" /></a>
 <a href="https://fb.com/исмоил каримов" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="исмоил каримов" height="30" width="40" /></a>
-<a href="https://instagram.com/@karimov0621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@karimov0621" height="30" width="40" /></a>
+<a href="https://www.instagram.com/karimov_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@karimov0621" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ismoilkarimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ismoilkarimov" height="30" width="40" /></a>
 </p>
 

@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismoilkarimov&label=Profile%20views&color=0e75b6&style=flat" alt="ismoilkarimov" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iskaedev" target="blank"><img src="https://img.shields.io/twitter/follow/@ismoilkarimov21?logo=twitter&style=for-the-badge" alt="@ismoilkarimov21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iskaedev" target="blank"><img src="https://img.shields.io/twitter/follow/@ismoilkarimov21?logo=twitter&style=for-the-badge" alt="@iskaedev" /></a> </p>
 
 - 🌱 I’m currently learning **Next js and tailwindcss and also I have been using them in some real projects**
 
